@@ -1,27 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T09:00:14.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sKr5gmQsU4tFoz135vKy" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T09:19:47.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QY4DCB8bpeuFLmWN4W11" version="20.8.20" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="ZGLZKKkDCcHFPG5BxnhB-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZGLZKKkDCcHFPG5BxnhB-0" target="ZGLZKKkDCcHFPG5BxnhB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-0" value="发起工会小组年度计划征集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-0" value="发起工会俱乐部年度计划征集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="140" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-4" value="汇总所有小组总预算" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZGLZKKkDCcHFPG5BxnhB-3">
+        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-4" value="汇总所有俱乐部预算" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ZGLZKKkDCcHFPG5BxnhB-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="290" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-1" value="填写小组年度活动计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-1" value="填写俱乐部年度活动计划&lt;br&gt;（具体填写十二个月安排）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZGLZKKkDCcHFPG5BxnhB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZGLZKKkDCcHFPG5BxnhB-3" target="ZGLZKKkDCcHFPG5BxnhB-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-3" value="生成工会小组年度总预算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-3" value="生成俱乐部年度总预算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="370" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZGLZKKkDCcHFPG5BxnhB-10" value="通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZGLZKKkDCcHFPG5BxnhB-5" target="ZGLZKKkDCcHFPG5BxnhB-8">
@@ -43,7 +44,7 @@
         <mxCell id="ZGLZKKkDCcHFPG5BxnhB-5" value="审批" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305" y="460" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-8" value="生成各个工会小组对应年度预算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZGLZKKkDCcHFPG5BxnhB-8" value="生成各个俱乐部&lt;br&gt;对应年度总预算和月预算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="600" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
